@@ -1,0 +1,9 @@
+[submodule "corgi_sim"]
+	path = corgi_sim
+	url = https://github.com/yisyuanshen/corgi_sim.git
+[submodule "corgi_core"]
+	path = corgi_core
+	url = https://github.com/yisyuanshen/corgi_core.git
+[submodule "corgi_system"]
+	path = corgi_system
+	url = https://github.com/yisyuanshen/corgi_system.git
